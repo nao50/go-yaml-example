@@ -1,0 +1,6 @@
+b: &b
+  ba: 411
+  bb: "small"
+c: &c
+  ca: 3
+  cb: "huga"
